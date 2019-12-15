@@ -14,6 +14,8 @@ Chnge_weight - Change weight in loss definition
 
 Change_start - Change Initial image to perform model optimization (White gaussian noise, content image, stripes ...)
 
+White_noise_starts - Several outome with white gaussian noise start
+
 ## Images
 Images used as inputs
 
