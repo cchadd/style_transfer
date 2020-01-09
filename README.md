@@ -19,6 +19,10 @@ White_noise_starts - Several outome with white gaussian noise start
 ## Images
 Images used as inputs
 
+## Video
+Original video - from https://www.pexels.com/ (free of use)
+Fitted video - video.mp4
+
 ## Report
 Report on experiments
 
