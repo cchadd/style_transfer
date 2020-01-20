@@ -24,8 +24,11 @@ White_noise_starts - Several outome with white gaussian noise start
 Images used as inputs
 
 ## Video
-Original video - from [pexel.com] (https://www.pexels.com/video/video-of-a-city-1906730) (free of use)
+Original video - from https://www.pexels.com/video/video-of-a-city-1906730 (free of use)
 Fitted video - video.mp4
+
+![alt text](https://github.com/cchadd/style_transfer/blob/master/Video/video_short.gif)
+
 
 ## Report
 Report on experiments
