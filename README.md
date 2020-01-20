@@ -25,8 +25,11 @@ Images used as inputs
 
 ## Video
 Original video - from https://www.pexels.com/video/video-of-a-city-1906730 (free of use)
-Fitted video - video.mp4
+![alt text](https://github.com/cchadd/style_transfer/blob/master/Videos/pexel_video_short.gif)
 
+
+
+Fitted video - video.mp4
 ![alt text](https://github.com/cchadd/style_transfer/blob/master/Videos/video_short.gif)
 
 
